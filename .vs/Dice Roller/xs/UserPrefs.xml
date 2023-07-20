@@ -1,4 +1,14 @@
 ﻿<Properties StartupConfiguration="{07679E34-BB8E-4C0E-9C03-0DAA20E45495}|Default">
-  <MonoDevelop.Ide.ItemProperties.Dice_220Roller FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Dice_220Roller PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Dice Roller/Program.cs">
+    <Files>
+      <File FileName="Dice Roller/Program.cs" Line="54" Column="40" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
 </Properties>

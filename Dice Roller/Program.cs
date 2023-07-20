@@ -1,5 +1,5 @@
 ﻿Console.WriteLine("Welcome to the Grand Circus Casino!");
-Console.WriteLine("How many sides should each die have?");
+Console.WriteLine("How many sides should each die have? Enter 6 or 20");
 int input1 = int.Parse(Console.ReadLine().Trim().ToLower());
 if (input1 == 6)
 {
@@ -85,7 +85,7 @@ else
         static int RandomNumberGenerator(int size)
         {
             Random rnd = new Random();
-            return rnd.Next(1, size);
+            return rnd.Next(1, size +1);
         }
 
         static string Combinations(int dice1, int dice2)
